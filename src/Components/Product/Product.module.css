@@ -1,0 +1,12 @@
+.card{
+    width: 350px;
+    border-radius: 32px 32px 32px 32px;
+    border: none;
+    box-shadow: 0.5px 0.5px 1.5px grey;
+}
+
+
+.lwh{
+width: 100px;
+height: 100px;
+}
